@@ -1,17 +1,8 @@
-
 cff-version: 1.2.0
-message: "If you use this software in your research, please cite this repository and the associated publications."
-title: "Biosignal Connectivity Toolbox"
+message: "If you use this software, please cite this repository."
+title: "ROK_connectivity_toolbox"
 type: software
 authors:
   - family-names: "O'Keeffe"
     given-names: "Rory"
-version: "1.0.0"
-keywords:
-  - biosignal processing
-  - electromyography
-  - electrophysiology
-  - functional connectivity
-  - mutual information
-  - coherence
-  - phase-locking value
+repository-code: "https://github.com/nemanja15/ROK_connectivity_toolbox"
